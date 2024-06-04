@@ -3,3 +3,4 @@ for i in range(1,11):
 print("Done")
 print("End of the Program")
 print("New Line")
+print("NEw NNew")
