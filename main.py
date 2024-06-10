@@ -10,7 +10,6 @@ while True:
     u += 1
 print(v)
 print("Done")
-print("End of the Program")
 print("New Line")
 print("Fetch")
 print("Merge")
