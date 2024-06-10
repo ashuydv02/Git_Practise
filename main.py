@@ -11,5 +11,6 @@ while True:
 print(v)
 print("Done")
 print("New Line")
+print("Newest Comit")
 print("Fetch")
 print("Merge")
